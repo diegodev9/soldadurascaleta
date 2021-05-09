@@ -1,0 +1,215 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.mouse-behavior-none {
+  pointer-events: none !important;
+}
+
+.mt-5 {
+  margin-top: 5rem;
+}
+
+.pt-5 {
+  padding-top: 5rem;
+}
+
+.text-dark {
+  color: #000;
+}
+
+.dev9 {
+  color: #09a709;
+}
+
+.text-white {
+  color: white !important;
+}
+.text-bold {
+  font-weight: bold !important;
+}
+
+.d-flex {
+  display: flex !important;
+}
+.d-none {
+  display: none;
+}
+
+.justify-content-center {
+  justify-content: center !important;
+}
+
+.flex-column {
+  flex-direction: column !important;
+}
+
+.w-50 {
+  width: 50%;
+}
+.w-25 {
+  width: 25%;
+}
+
+.mr-0 {
+  margin-right: 0 !important;
+}
+.mr-1 {
+  margin-right: 1rem;
+}
+.m-auto {
+  margin: auto;
+}
+
+.pl-0 {
+  padding-left: 0 !important;
+}
+
+.pr-0 {
+  padding-right: 0 !important;
+}
+
+/*------------------------------------*/
+.scrollToTop {
+  background: #ff1b1b;
+}
+
+.header-left .infor-header .text-infor .phone-number {
+  color: #01a851 !important;
+}
+.header-left .infor-header .fa-whatsapp {
+  font-size: 4rem;
+  color: #01a851;
+}
+
+a:hover {
+  color: #ff1b1b;
+}
+a:focus {
+  color: #ff1b1b;
+}
+
+.social a i:hover {
+  border: 1px solid #ff1b1b;
+}
+
+.btn-web a {
+  background: #01a851;
+}
+.btn-web a:hover {
+  color: white;
+  border: 1px solid white;
+}
+
+.product.product-v6 .wrap-box-1:hover h5 a {
+  color: #ff1b1b !important;
+}
+.product.product-v6 .wrap-box-1:hover h5:before {
+  background: #ff1b1b !important;
+}
+
+.product.product-v5 .container .title-h3:before {
+  background: #ff1b1b;
+}
+
+.pro-deal .pro-content ul li {
+  font-size: 18px;
+}
+
+.footer .contact-top .contact-infor {
+  margin-top: 0 !important;
+  margin-left: 0 !important;
+}
+.footer .contact-top .contact-infor .wrap-right {
+  justify-content: center;
+}
+.footer .contact-top .contact-infor .wrap-right .img-left .color-verde {
+  color: #ff1b1b;
+}
+.footer .contact-top .content-contact {
+  margin: auto 0 !important;
+}
+.footer .footer-bottom {
+  margin-top: 0 !important;
+}
+.footer .footer-bottom .menu-footer li a:hover {
+  color: #01a851 !important;
+}
+
+a:hover {
+  color: #ff1b1b;
+}
+
+button.btn.btn-transparent {
+  background: transparent;
+}
+button.btn:focus {
+  outline: none;
+}
+
+.btn-primary .ml-0 {
+  margin-left: 0 !important;
+}
+
+.content-item {
+  background: rgba(255, 255, 255, 0.6);
+}
+
+img.img-responsive {
+  cursor: default;
+}
+
+#content_menu_popup ul li a:hover {
+  color: #ff1b1b;
+}
+#content_menu_popup ul li a:after {
+  background: #ff1b1b;
+}
+
+#pbr-off-canvas .offcanvas-head {
+  background: #ff1b1b;
+}
+
+.cartelito {
+  background-color: #ff1b1b;
+  height: 30px;
+  width: 220px;
+  padding: 5px 0;
+  position: fixed;
+  bottom: 12.5%;
+  right: 7%;
+  z-index: 1;
+}
+
+/* ---- whatsapp ----*/
+.w-flotante {
+  background-color: green;
+  width: 6rem;
+  height: 6rem;
+  position: fixed;
+  bottom: 12%;
+  right: 2%;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+.w-flotante a {
+  color: white;
+}
+.w-flotante:hover {
+  background-color: #ff1b1b;
+}
+.w-flotante.text-whatsapp {
+  color: #fff;
+  font-size: 2rem;
+  font-weight: 700;
+  margin-right: 1rem;
+}
+.w-flotante .whatsapp {
+  color: white;
+  font-size: 3rem;
+}
+
+/*# sourceMappingURL=ajustes.css.map */
